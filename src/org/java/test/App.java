@@ -1,6 +1,6 @@
 package org.java.test;
 /**
- * ²âÊÔÀà1
+ * æµ‹è¯•1
  *
  */
 public class App {
